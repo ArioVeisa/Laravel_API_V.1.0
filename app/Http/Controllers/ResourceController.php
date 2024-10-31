@@ -8,7 +8,7 @@ class ResourceController extends Controller
 {
     public function index()
     {
-       return view('Layouts/app');
+       return view('welcome');
     }
 
 }
